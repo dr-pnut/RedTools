@@ -1,6 +1,6 @@
 # Disclaimer
 
-This repository and all its contents are provided strictly for **educational and research purposes**. The author is a student actively pursuing a career in **offensive cybersecurity**, **ethical hacking**, and **red teaming**. All code, scripts, configurations, and documentation included here are intended for use in **legal, controlled environments** only.
+This repository and all its contents are provided strictly for **educational and research purposes**. All code, scripts, configurations, and documentation included here are intended for use in **legal, controlled environments** only.
 
 By accessing, cloning, or using any part of this repository, you agree to the following terms:
 
