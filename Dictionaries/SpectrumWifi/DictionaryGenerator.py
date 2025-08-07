@@ -11,7 +11,8 @@ with open("SpectrumDictionary.txt", "w") as f:
                 password = f"{adj}{noun}{i:03d}"
                 f.write(password + "\n")
                 count += 1
-                if count % 10000 == 0 or count == total:
+                if count % 100000 == 0 or count == total:
                     print(f"[{count} / {total}] passwords written")
 
 print("Done.")
+
