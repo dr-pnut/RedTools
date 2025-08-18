@@ -1,11 +1,12 @@
 import hashlib
 
-target = input("Enter target hash: ").strip()
-
 src = input("Is the target from a (f)ile or (s)tring? [f/s]: ").lower()
+
 if src == 'f':
     with open(input("Enter path to hash file: "), encoding="utf-8") as f:
         target = f.readline().strip()
+else:
+    target = input("Enter target hash: ").strip()
 
 dict_path = input("Enter path to dictionary file: ")
 
