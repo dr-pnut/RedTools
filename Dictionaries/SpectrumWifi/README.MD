@@ -1,4 +1,4 @@
-Spectrum Wi-Fi Dictionary Generator
+# Spectrum Wi-Fi Dictionary Generator
 
 This Python script generates a wordlist of possible Spectrum Wi-Fi passwords using the common format:
 
@@ -83,5 +83,4 @@ Please use responsibly and only on networks where you have permission to test.
 
 Acknowledgments
 
-Special thanks to user "nova-sec" and their project "SpectrumSniper" (https://github.com/nova-sec/SpectrumSniper) for providing the nouns.txt and adjectives.txt files used in this script.
-
+Special thanks to user [nova-sec](https://github.com/nova-sec) and their project [SpectrumSniper](https://github.com/nova-sec/SpectrumSniper) for providing the nouns.txt and adjectives.txt files used in this script.
